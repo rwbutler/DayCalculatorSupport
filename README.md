@@ -1,3 +1,9 @@
+
+
+<div align="center">
+    <img width="200" height="200" src="https://github.com/rwbutler/DayCalculatorSupport/raw/master/docs/images/day-calculator-logo.png" alt="Day Calculator Logo">
+</div>
+
 # Day Calculator
 
 ## Support

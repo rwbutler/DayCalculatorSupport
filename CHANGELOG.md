@@ -1,6 +1,10 @@
+# Version 1.3.0 - iOS (December 2019)
+
+Introduces the Settings menu on iOS allowing the app icon to be customised.
+
 # Version 1.2.0 - macOS (15th November 2019)
 
-Adds support for Mac Catalyst enabling you to run the same app across both iOS and macOS. This version also introduces the Settings menu.
+Adds support for Mac Catalyst enabling you to run the same app across both iOS and macOS. This version also introduces the Settings menu on macOS.
 
 # Version 1.1.0 - iOS (25th September 2019)
 
